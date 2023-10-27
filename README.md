@@ -67,7 +67,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maldhan adhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maldhan adhav" height="30" width="40" /></a>
-<a href="https://github.com/in/maldhan adhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maldhan adhav" height="30" width="40" /></a>
+<a href="https://github.com/in/maldhan adhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="maldhan adhav" height="30" width="40" /></a>
 <a href="https://fb.com/maldhan shamrao adhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maldhan shamrao adhav" height="30" width="40" /></a>
 <a href="https://instagram.com/maldhan95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maldhan95" height="30" width="40" /></a>
 </p>
