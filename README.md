@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="450" hight="50" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Maldhan Adhav</h1>
